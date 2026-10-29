@@ -1,0 +1,8 @@
+{
+  "name": "websentinel-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "API de WebSentinel",
+  "type": "module",
+  "scripts": {}
+}
